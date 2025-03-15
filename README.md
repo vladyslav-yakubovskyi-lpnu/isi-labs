@@ -1,3 +1,4 @@
+edited
 # [Vue Paper Dashboard](https://cristijora.github.io/vue-paper-dashboard/)
 
 > Admin dashboard based on paper dashboard UI template + vue-router
